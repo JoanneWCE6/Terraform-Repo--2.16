@@ -8,7 +8,7 @@ env:
   AWS_REGION: ap-southeast-1  
 
 jobs:
-  EB-Deployment:
+  CIv2:
     runs-on: ubuntu-latest
 
     steps:
