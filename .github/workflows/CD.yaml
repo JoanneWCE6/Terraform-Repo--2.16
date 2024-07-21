@@ -1,4 +1,4 @@
-name: EB Deployment for Infra and App
+name: CIv2
 
 on:
   push:
